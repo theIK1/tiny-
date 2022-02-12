@@ -1,7 +1,0 @@
-﻿  main.cpp
-E:\IK_workplace\tiny\src\main.cpp(8,37): warning C4305: “+=”: 从“double”到“float”截断
-E:\IK_workplace\tiny\src\main.cpp(9,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-E:\IK_workplace\tiny\src\main.cpp(10,9): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
-  tgaimage.cpp
-  正在生成代码...
-  tinyrenderer.vcxproj -> E:\IK_workplace\tiny\x64\Debug\tinyrenderer.exe
